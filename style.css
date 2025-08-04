@@ -7,4 +7,6 @@ header{
     padding: 15px;
 font-size: 25px;
 background: rgb(51, 218, 60);
+display: flex;
+justify-content: center;
 }
