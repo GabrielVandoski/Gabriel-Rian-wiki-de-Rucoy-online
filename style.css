@@ -19,14 +19,24 @@ body {
 }
 h2 {
     font-size: 100px;
+    color: black;
+
 }
 
 h1 {
+    color: black;
+
+    font-size: 100px;
+    color: black;
+}
+
+h3{
     color: black;
     font-size: 100px;
 }
 
 html {
+
     background: black;
 }
 
