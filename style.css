@@ -17,8 +17,12 @@ body {
   background-color: #332929; /* Cor de fundo */
   color: #333333; /* Cor do texto */
 }
+h2 {
+    font-size: 100px;
+}
 
 h1 {
+    color: black;
     font-size: 100px;
 }
 
