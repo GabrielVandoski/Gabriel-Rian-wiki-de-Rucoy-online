@@ -3,6 +3,7 @@ head{
 }
 
 body {
+    background: rgb(rgb(169, 166, 166));
 margin: 0px;
 
 }
@@ -11,9 +12,6 @@ margin: 0%;
 }
 
 
-.title {
-    font-size: 124px;
-}
 h3 {
     font-size: 40px;
 }
