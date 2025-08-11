@@ -13,6 +13,10 @@ margin: 0%;
 background: black;
 }
 
+body {
+  background-color: #332929; /* Cor de fundo */
+  color: #333333; /* Cor do texto */
+}
 
 h1 {
     font-size: 100px;
