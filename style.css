@@ -51,3 +51,10 @@ padding-bottom: 5px;
 height: 200px;
 }
     
+.categoria img {
+    opacity: o.5;
+}
+.categoria img:hover{
+    opacity: 1.0;
+    border: 3px solid white;
+}
