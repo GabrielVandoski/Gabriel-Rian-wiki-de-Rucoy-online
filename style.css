@@ -52,7 +52,7 @@ height: 200px;
 }
     
 .categoria img {
-    opacity: o.5;
+    opacity: 0.5;
 }
 .categoria img:hover{
     opacity: 1.0;
